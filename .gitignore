@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# macOS
+.DS_Store
+
+# CSV Data
+tickets.csv
